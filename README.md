@@ -28,11 +28,11 @@ pore-dcf/
 ├── requirements.txt
 ├── .gitignore
 ├── data/
-│   └── example_mask.png
-└── outputs/
+   └── example_mask.png
+
 ```
 
-The `data/` and `outputs/` folders are optional. You may use any folder names, but the paths inside the scripts must match your local structure.
+
 
 ## Installation
 
